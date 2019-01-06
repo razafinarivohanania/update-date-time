@@ -1,0 +1,1 @@
+powershell -Command "Start-Process node src/update -Verb RunAs"
